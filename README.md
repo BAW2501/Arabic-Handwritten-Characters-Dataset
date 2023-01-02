@@ -57,9 +57,9 @@ here is the classification report
            و       0.79      0.97      0.87       120
            ي       0.93      0.96      0.94       120
 
-    accuracy                           0.92      3360
-   macro avg       0.92      0.92      0.92      3360
-weighted avg       0.92      0.92      0.92      3360
+      accuracy                              0.92      3360
+      macro avg         0.92      0.92      0.92      3360
+      weighted avg      0.92      0.92      0.92      3360
 
 # References
 
